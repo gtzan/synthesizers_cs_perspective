@@ -11,6 +11,7 @@ The course is structured in learning modules covering different concepts related
   3. **Historical Dive**: historical information related to the concept 
   4. **Software Anatomy**: exploring and understand existing implementations of the concept 
   5. **Music/Videos**: fun but releveant things to listen to and view 
+  6. **Guest speakers/conversations**:  discussion of the concepts covered with experts 
 
 The following topics will be covered: 
 
@@ -18,16 +19,18 @@ The following topics will be covered:
   2. Filters 
   3. Spectral analysis 
   4. Additive and subtractive synthesis 
-  5. FM synthesis 
-  6. Prototal (MIDI, Open Sound Control) 
-  7. Sampling and wavetables 
-  8. Modal Synthesis 
-  9. Phasevocoding 
-  10. Physical Modeling 
-  11. Vocal synthesis 
-  12. Physical Modeling 
-  13. Virtual analog synthesis 
-  14. New interfaces for musical expression
+  5. FM synthesis, LFOs, modulation  
+  6. Protocols (MIDI, Open Sound Control) 
+  7. Samplers, drum machines, arpeggiators 
+  8. Sampling and wavetables 
+  9. Modal Synthesis 
+  10. Wavescanning 
+  11. Phasevocoding 
+  12. Vocal synthesis 
+  14. Physical Modeling 
+  15. Virtual analog synthesis 
+  16. New interfaces for musical expression
+ 
 
 
 
