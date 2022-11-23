@@ -22,8 +22,16 @@
 ## Music 
 
 ## Videos 
+  1. Thomas Dolby synthesizer explanation (https://www.youtube.com/watch?v=dR-Qf1vwd28)
 
 
 ## People 
 
 https://www.hughlecaine.com/en/links.html
+
+
+## Guests 
+
+1. Gayle Young 
+2. Dan Godlovich 
+3. 
