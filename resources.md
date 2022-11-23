@@ -27,7 +27,7 @@
 
 ## People 
 
-  - Hugh LeCain (https://www.hughlecaine.com/en/links.html) 
+  - [Hugh LeCain](https://www.hughlecaine.com/en/links.html) 
 
 
 ## Guests 
