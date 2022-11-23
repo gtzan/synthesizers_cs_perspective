@@ -1,2 +1,3 @@
-# synthesizers_cs_perspective
-Synthesizers: a computer science perspective 
+# Synthesizers: a computer science perspective 
+## George Tzanetakis
+
