@@ -31,8 +31,12 @@ The following topics will be covered:
   15. Virtual analog synthesis 
   16. New interfaces for musical expression
   
-There are lots of resources relevant to this course: 
+The following resources are relevant to this course: 
 [Resources](resources.md)
+
+There are several devices that can be used by the students for their projects and just simply playing around: 
+[Devices](devices.md) 
+
 
 
 
