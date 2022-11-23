@@ -30,7 +30,9 @@ The following topics will be covered:
   14. Physical Modeling 
   15. Virtual analog synthesis 
   16. New interfaces for musical expression
- 
+  
+There are lots of resources relevant to this course: 
+[Resources](resources.md)
 
 
 
