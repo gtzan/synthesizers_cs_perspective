@@ -22,12 +22,12 @@
 ## Music 
 
 ## Videos 
-  - [Thomas Dolby synthesizer explanation] (https://www.youtube.com/watch?v=dR-Qf1vwd28)
+  - Thomas Dolby synthesizer explanation (https://www.youtube.com/watch?v=dR-Qf1vwd28)
 
 
 ## People 
 
-  - [Hugh LeCain] (https://www.hughlecaine.com/en/links.html) 
+  - Hugh LeCain (https://www.hughlecaine.com/en/links.html) 
 
 
 ## Guests 
