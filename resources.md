@@ -22,7 +22,7 @@
 ## Music 
 
 ## Videos 
-  - Thomas Dolby synthesizer explanation (https://www.youtube.com/watch?v=dR-Qf1vwd28)
+  - [Thomas Dolby synthesizer explanation]https://www.youtube.com/watch?v=dR-Qf1vwd28
 
 
 ## People 
