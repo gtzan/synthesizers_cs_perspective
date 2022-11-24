@@ -30,8 +30,10 @@
   - [Hugh LeCain](https://www.hughlecaine.com/en/links.html) 
 
 
-## Guests 
+## Guest Speakers 
 
 1. Gayle Young 
 2. Dan Godlovich 
-3. 
+3. Sarah Belle Reid 
+4. Randy Jones 
+5. Gary Garritan 
