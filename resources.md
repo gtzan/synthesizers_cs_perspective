@@ -9,6 +9,8 @@
 - Max/MSP 
 - PureData 
 - Juce 
+- Faust 
+- 
 
 ### Software synthesizers and emulators 
 - Fluidsynth 
@@ -18,7 +20,7 @@
 
 ## Books 
 
-1. 
+ 
 
 ## Publications 
 
@@ -31,6 +33,8 @@
   - [The synthesizers of classic jazz fusion](https://reverb.com/news/the-synthesizers-of-classic-jazz-fusion?fbclid=IwAR1cPrbmIYZqEpgQ_mEmUR175NLjR5XljfKLjd5warSXD4BGWgURE8b0ZJ0)
   - [Ondes Martenot](https://www.youtube.com/watch?v=Zp4mBmsV6Xk)
   - [Ondex Martenot](https://www.youtube.com/watch?v=v0aflcF0-ys)
+  - [History of the Fairlight CMI](https://www.youtube.com/watch?v=jkiYy0i8FtA)
+
 
 
 ## People 
@@ -45,3 +49,5 @@
 3. Sarah Belle Reid 
 4. Randy Jones 
 5. Gary Garritan 
+6. Perry Cook 
+
