@@ -2,13 +2,18 @@
 
 ## Software 
 
+### Languages and Frameworks 
 - Csound 
 - Supercollider
 -  Chuck 
 - Max/MSP 
 - PureData 
 - Juce 
--  
+
+### Software synthesizers and emulators 
+- Fluidsynth 
+- dxed 
+- 
 
 
 ## Books 
@@ -23,6 +28,7 @@
 
 ## Videos 
   - [Thomas Dolby synthesizer explanation](https://www.youtube.com/watch?v=dR-Qf1vwd28)
+  - [The synthesizers of classic jazz fusion](https://reverb.com/news/the-synthesizers-of-classic-jazz-fusion?fbclid=IwAR1cPrbmIYZqEpgQ_mEmUR175NLjR5XljfKLjd5warSXD4BGWgURE8b0ZJ0)
 
 
 ## People 
