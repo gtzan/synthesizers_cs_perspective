@@ -9,12 +9,26 @@ and group projects. Experience with music notation and/or music technology is no
 
 ## Topics 
 
+1. Oscillators
+2. Filters
+3. Spectral analysis
+4. Additive and subtractive synthesis
+5. FM synthesis, LFOs, modulation
+6. Protocols (MIDI, Open Sound Control)
+7. Samplers, drum machines, arpeggiators
+8. Sampling and wavetables
+9. Modal Synthesis
+10. Wavescanning
+11. Phasevocoding
+12. Vocal synthesis
+13. Physical Modeling
+14. Virtual analog synthesis
+15. New interfaces for musical expression
 
 
 
+## Course Objectives 
 
-**Course Objectives 
-**
 1. Learn the basic digital signal processing concepts behind synthesizers such as oscillators, filters, spectral analysis, modulation 
 2. Explore how these concepts are implemented in existing software as well as learn how to implement them directly in a variety 
 of programming languages and frameworks 
@@ -23,7 +37,7 @@ of programming languages and frameworks
 5. Reverse engineer existing hardware devices to create software emulations of them 
 
 
-**Learning Outcomes **
+## Learning Outcomes
 
 1. Software development skills with focus on audio programming 
 2. Reverse engineering hardware to create digital emulations 
