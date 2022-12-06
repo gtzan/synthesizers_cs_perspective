@@ -9,7 +9,24 @@ and group projects. Experience with music notation and/or music technology is no
 
 ## Topics 
 
-1. Oscillators
-2. Filters 
-3. 
 
+
+
+
+**Course Objectives 
+**
+1. Learn the basic digital signal processing concepts behind synthesizers such as oscillators, filters, spectral analysis, modulation 
+2. Explore how these concepts are implemented in existing software as well as learn how to implement them directly in a variety 
+of programming languages and frameworks 
+3. Learn how to program efficient real-time audio programs 
+4. Learn how to program reactive audio visualizations and graphical user interfaces 
+5. Reverse engineer existing hardware devices to create software emulations of them 
+
+
+**Learning Outcomes **
+
+1. Software development skills with focus on audio programming 
+2. Reverse engineering hardware to create digital emulations 
+3. Understanding existing code 
+4. Working in mutliple groups 
+5. Reading technical literature and understanding how to implement the described concepts 
