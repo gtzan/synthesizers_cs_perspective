@@ -47,6 +47,6 @@ of programming languages and frameworks
 
 ## Grading 
 
-**40% **Assignmennts (individual) 
-**50%** Project (multiple, group) 
-**10%** Activity log (weekly update) 
+1. **40%** Assignmennts (individual) 
+2. **50%** Project (multiple, group) 
+3. **10%** Activity log (weekly update) 
