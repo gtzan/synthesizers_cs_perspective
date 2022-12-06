@@ -44,3 +44,9 @@ of programming languages and frameworks
 3. Understanding existing code 
 4. Working in mutliple groups 
 5. Reading technical literature and understanding how to implement the described concepts 
+
+## Grading 
+
+**40% **Assignmennts (individual) 
+**50%** Project (multiple, group) 
+**10%** Activity log (weekly update) 
