@@ -8,3 +8,8 @@ and group projects. Experience with music notation and/or music technology is no
 
 
 ## Topics 
+
+1. Oscillators
+2. Filters 
+3. 
+
