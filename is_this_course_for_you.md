@@ -1,5 +1,21 @@
-## IS THIS COURSE FOR YOU? 
+## IS THIS COURSE RIGHT FOR YOU? 
+
+This is an elective topics course in which I plan to experiment with various ideas about teaching and learning that I have had over the years and would have been really hard to try in a more organized, established course. As the topic and content are relatively unique and new I would like to provide you with some more information about what the course is about in order to help you make an informed decision about whether taking the course is a good choice for you. 
+
+The focus of the course is Synthesizers from a Computer Science perspective. We will be mostly looking "under the hood" of existing synthesizers and learning about how to implement in software various concepts from audio and signal processing that are used in synthesizers. **Programming** is absolutely central to this course so if you are looking for a more theoretical/mathematical course this is not a good choice (although we will cover some challenging mathematical concepts if that's your cup of tea). 
+
+This is not a course with a well developed and organized curriculum or textbooks. Although there are a lot of resources about using synthesizers to create interesting sounds there is much less information about how the underlying concepts are implemented. Modern digital audio workstations are extremely large and complicated pieces of software. However, synthesizers especially the digital synthesizers of the 1980s are very well understood and can be emulated very accurately in software using modern computers. Therefore, another important characteristic of the course will be learning about how old hardware and software was implemented. If you only like to learn about cutting edge technologies this course might not be the best choice given the **historical nature** of a lot of the work we will be doing. 
+
+We will also doing a lot of **reverse engineering** of black box hardware and software as well as **software anatomy** of existing software code that is open source. This is something that is not typically emphasized in undergraduate computer science courses but will be a regular activity in this course. There is no organized textbook so there will be a lot of different readings from diverse fields and time periods. **Understanding of technical literature** in order to create working implementations is challenging and will also be an important part of this course. 
+
+In terms of implementation, we will take a pluralistic approach and try to work with a **wide variety of programming languages, frameworks, and libries**.  Therefore, it is important to be willing to learn new concepts and get outside your comfort zone. Furthermore, the concepts covered are inherently **interdisciplinary** and it will be hard if not impossible to be an expert in all of them. This means that you should be prepared to learn new concepts from areas you are not familiar with and work with different people that have different backgrounds and expertise. For example, some kind of music background (a few years of learning an instrument and basic reading of music notation) is very useful skill to have but you could take the course even if you have no music experience if you are willing to put some time into learning what you need. 
+
+Last but not least, this course will be heavily **project and team oriented**. I plan to provide multiple ideas for assignments (completed individually) and projects (completed in groups) at various levels of difficulty. For the project I plan to follow a **fluid project allocation** approach in which you can work on multiple projects and teams simultaneously or focus on a more specific project. This means that you will need to **track and document** your activities related to this course and be open to having your work constantly examined by the instructor and other students. You can think of the course as a coordinated team **workshop**. 
+
+To summarize, this is not a typical undergraduate computer science course in which you do a couple of assignments, write a midterm and final exa, and 
+perhaps do a group project near the end. It will NOT have clear objectives and learning outcomes and each student will carve their own unique path through the material. If this all sounds exiting then taking this course is probably a good idea. On the other hand, if you are concerned about some of these concepts and that's completely understandable then there is a good chance you will not have a good experience taking this course. If you have any questions do not hesitate to reach out via email or by any other means. 
 
 
-This is an elective topics course in which I plan to experiment with various ideas about teaching and learning that I have which would be hard to try in a 
-more organized, established course. 
+
+
+
