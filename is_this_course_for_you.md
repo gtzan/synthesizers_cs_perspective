@@ -1,4 +1,4 @@
-## IS THIS COURSE RIGHT FOR YOU? 
+## IS THIS COURSE FOR YOU? 
 
 This is an elective topics course in which I plan to experiment with various ideas about teaching and learning that I have had over the years and would have been really hard to try in a more organized, established course. As the topic and content are relatively unique and new I would like to provide you with some more information about what the course is about in order to help you make an informed decision about whether taking the course is a good choice for you. 
 
