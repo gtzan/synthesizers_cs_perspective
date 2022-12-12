@@ -1,8 +1,7 @@
 # Synthesizers: a computer science perspective 
 ## George Tzanetakis
 
-1. [Is this course for you](is_this_course_right.md)
-
+1. [Is this course for you](is_this_course_for_you.md)
 2. [Course Outline 2022](course_outline.md)
 
 
