@@ -43,7 +43,7 @@ The following resources are relevant to this course:
 
 The assignments for the course can be found here: 
 
-1. [Assignment 1] (assignment1.md) 
+1. [Assignment 1](assignment1.md) 
 
 There are several devices that can be used by the students for their projects and just simply playing around: 
 [Devices](devices.md) 
