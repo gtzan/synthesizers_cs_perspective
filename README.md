@@ -41,6 +41,10 @@ The following topics will be covered:
 The following resources are relevant to this course: 
 [Resources](resources.md)
 
+The assignments for the course can be found here: 
+
+1. Assignment 1 (assignment1.md) 
+
 There are several devices that can be used by the students for their projects and just simply playing around: 
 [Devices](devices.md) 
 
