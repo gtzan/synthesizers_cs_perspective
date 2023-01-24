@@ -17,31 +17,31 @@ you could get 1 or 2 points. Projects at the same level of difficulty and same n
 2. Create a simple sampling-based synthesizer for an instrument of your own choice. You will need to sample the instrument for a few different pitches and dynamics and then use interpolation and some logic to make your synthesizer able to play any pitch and dynamic. Your synthesizer should respond to MIDI and generate audio. Typically such as a software synthesizer is implemented as an audio plugin or it could also be a VCV rack module. (10 points) 
 3. Implement a simple software MIDI sequencer. It should support simple recording, editing, and playback of MIDI events.  (10 points) 
 4. Implement a simple drum machine using samples and a grid software interface. The drum machine should also respond to MIDI messages (10 points) 
+5. Simple audio effect with a few parameters (no fancy GUI or MIDI control needed). Examples could be a parametric filter, a simple equalizer, a simple reverb, or a compressor. Typically this would be a VST/Audio Plugin with JUCE or Faust being the recommended programming framework. 
 
 ## Expected Projects (sum up to 40) 
 
-4. Implement a software emulator of a particular hardware synth. You should be able to interface with your software synthesizer using MIDI and generate audio. Typically such as software emulator is implemented as an audio plugin or it could also be a VCV rack module. For synthesizers of the 80s, you can cover most if not all of the functionality of the synthesizer but for more modern ones you might need to pick a subset (for example do not implement the sequencer) . (10 points) 
-5. Create a simple parser and sound synthesis engine for Music V - which is one of the first computer music programming languages. There is an existing working compiler that uses modern Fortran. With modern libraries and more flexible languages like Python writing a simple parser/sound synthesis engine is a reasonable project. (10 points) 
-6. Procedural sound generation using a computer music framework or language (Chuck, SuperCollider, CSound, Faust, Max/MSP or PureData). 
-7. Car engine modeling 
-8. Live coding demonstration 
-9. Retro game audio engine 
-10. Real-time phase vocoder 
-11. Granular synthesizer 
+1. Implement a software emulator of a particular hardware synth. You should be able to interface with your software synthesizer using MIDI and generate audio. Typically such as software emulator is implemented as an audio plugin or it could also be a VCV rack module. For synthesizers of the 80s, you can cover most if not all of the functionality of the synthesizer but for more modern ones you might need to pick a subset (for example do not implement the sequencer) . (10 points) 
+2. Create a simple parser and sound synthesis engine for Music V - which is one of the first computer music programming languages. There is an existing working compiler that uses modern Fortran. With modern libraries and more flexible languages like Python writing a simple parser/sound synthesis engine is a reasonable project. (10 points) 
+3. Procedural sound generation using a computer music framework or language (Chuck, SuperCollider, CSound, Faust, Max/MSP or PureData). 
+4. Car engine modeling 
+5. Live coding demonstration 
+6. Retro game audio engine 
+7. Real-time phase vocoder 
+8. Granular synthesizer 
 
 
 ## Advanced Projects (sum up to 50) 
 
-8. Physical Modeling 
-9. Virtual analog synthesis 
-10. Virtual and Augmented reality control interface 
-11. Chip tunes 
-12. Inverse sound matching 
-13. Semantic patch browser 
-14. New approach to patching (semi-modular, implicit, textual) 
-15. Hardware/physical computing (installation, music robot, hyper-instrument, non-invasive sensing) 
-16. 
-
+1. Physical Modeling 
+2. Virtual analog synthesis 
+3. Virtual and Augmented reality control interface 
+4. Chip tunes 
+5. Inverse sound matching 
+6. Semantic patch browser 
+7. New approach to patching (semi-modular, implicit, textual) 
+8. Hardware/physical computing (installation, music robot, hyper-instrument, non-invasive sensing) 
+9. 
 
 
 
