@@ -32,7 +32,7 @@ you could get 1 or 2 points. Projects at the same level of difficulty and same n
 9. Real-time audio effects processor - multiple effects, MIDI control, nicer GUI - extension of basic project 5. (10 points) 
 10. Classic paper demonstration notebook (10 points) 
 11. Non-trivial contribution to existing open source codebase of computer music software (10 points) 
-12. 
+12. Stereo panning and delay effects (10 points) 
 
 
 ## Advanced Projects (sum up to 50) 
@@ -48,7 +48,7 @@ you could get 1 or 2 points. Projects at the same level of difficulty and same n
 9. Virtual and Augmented reality control interface 
 10. Retargeting to webassembly/webaudio existing computer music languages/environments 
 11. Music information retrieval analysis module to VCV voltage outputs 
-12. 
+12. 3D sound source placement for multiple synthesizers (10 points) 
 
 Total points: 50 
 
