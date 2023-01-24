@@ -49,6 +49,8 @@ you could get 1 or 2 points. Projects at the same level of difficulty and same n
 10. Retargeting to webassembly/webaudio existing computer music languages/environments 
 11. Music information retrieval analysis module to VCV voltage outputs 
 12. 3D sound source placement for multiple synthesizers (10 points) 
+13. GPU sound syntheis (torch synth) (10 points) 
+14. Multi-computer network synthesis (10 points) 
 
 Total points: 50 
 
