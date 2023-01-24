@@ -5,7 +5,7 @@
 2. [Course Outline January 2022](course_outline.md)
 3. [Uvic course outline January 2022](https://heat.csc.uvic.ca/coview/course/2023011/CSC484D) 
 4. [Discord server for discussions, January 2022](https://discord.gg/vvU6YmhhtS)
-5. [Project Ideas](project_ideas.md) 
+5. [Project Ideas](projects.md) 
 
 
 
