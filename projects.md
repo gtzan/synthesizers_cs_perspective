@@ -22,35 +22,36 @@ you could get 1 or 2 points. Projects at the same level of difficulty and same n
 
 ## Expected Projects (sum up to 40) 
 
-1. Implement a software emulator of a particular hardware synth. You should be able to interface with your software synthesizer using MIDI and generate audio. Typically such as software emulator is implemented as an audio plugin or it could also be a VCV rack module. For synthesizers of the 80s, you can cover most if not all of the functionality of the synthesizer but for more modern ones you might need to pick a subset (for example do not implement the sequencer) . (10 points) 
-2. Create a simple parser and sound synthesis engine for Music V - which is one of the first computer music programming languages. There is an existing working compiler that uses modern Fortran. With modern libraries and more flexible languages like Python writing a simple parser/sound synthesis engine is a reasonable project. (10 points) 
-3. Procedural sound generation using a computer music framework or language (Chuck, SuperCollider, CSound, Faust, Max/MSP or PureData). This refers to generating sounds or textural that have characteristics that can be controlled. Examples include wind, rotor and motor sounds, footsteps, rain etc. 
-4. Car engine modeling (10 points) 
-6. Retro game audio engine (10 points) 
-7. Real-time phase vocoder (10 points) 
-8. Granular synthesizer (10 points) 
-9. Real-time audio effects processor - multiple effects, MIDI control, nicer GUI - extension of basic project 5. (10 points) 
-10. Classic paper demonstration notebook (10 points) 
+1. Implement a software emulator of a particular hardware synth. You should be able to interface with your software synthesizer using MIDI and generate audio. Typically such as software emulator is implemented as an audio plugin or it could also be a VCV rack module. For synthesizers of the 80s, you can cover most if not all of the functionality of the synthesizer but for more modern ones you might need to pick a subset (for example do not implement the sequencer) . (20 points) 
+2. Create a simple parser and sound synthesis engine for Music V - which is one of the first computer music programming languages. There is an existing working compiler that uses modern Fortran. With modern libraries and more flexible languages like Python writing a simple parser/sound synthesis engine is a reasonable project. (20 points) 
+3. Procedural sound generation using a computer music framework or language (Chuck, SuperCollider, CSound, Faust, Max/MSP or PureData). This refers to generating sounds or textural that have characteristics that can be controlled. Examples include wind, rotor and motor sounds, footsteps, rain etc. (20 points)
+4. Car engine modeling (20 points) 
+6. Retro game audio engine (20 points) 
+7. Real-time phase vocoder (20 points) 
+8. Granular synthesizer (20 points) 
+9. Real-time audio effects processor - multiple effects, MIDI control, nicer GUI - extension of basic project 5. (20 points) 
+10. Classic paper demonstration notebook (20 points) 
 11. Non-trivial contribution to existing open source codebase of computer music software (10 points) 
-12. Stereo panning and delay effects (10 points) 
+12. Stereo panning and delay effects (20 points) 
 
 
 ## Advanced Projects (sum up to 50) 
 
-1. Physical Modeling Synthesis - implement some sound synthesis technique that is based on modeling the physics of sound production and provide expressive controls (10 points) 
-2. Virtual analog synthesis (10 points) 
-3. Chip tunes 
-4. Inverse sound matching 
-5. Semantic patch browser 
-6. New approaches to patching and programing (semi-modular, implicit, textual) 
-7. New approaches to live coding 
-8. Hardware/physical computing (installation, music robot, hyper-instrument, non-invasive sensing) 
-9. Virtual and Augmented reality control interface 
-10. Retargeting to webassembly/webaudio existing computer music languages/environments 
-11. Music information retrieval analysis module to VCV voltage outputs 
-12. 3D sound source placement for multiple synthesizers (10 points) 
-13. GPU sound syntheis (torch synth) (10 points) 
-14. Multi-computer network synthesis (10 points) 
+
+1. Physical Modeling Synthesis - implement some sound synthesis technique that is based on modeling the physics of sound production and provide expressive controls (10-20 points) 
+2. Virtual analog synthesis (10-20 points) 
+3. Chip tunes (10-20 points)
+4. Inverse sound matching (10-20 points)  
+5. Semantic patch browser (10-20 points) 
+6. New approaches to patching and programing (semi-modular, implicit, textual) (20 points)
+7. New approaches to live coding (10-20 points)
+8. Hardware/physical computing (10-20 points) installation, music robot, hyper-instrument, non-invasive sensing) (20 points)
+9. Virtual and Augmented reality control interface (10-20 points)
+10. Retargeting to webassembly/webaudio existing computer music languages/environments (10-20 points)
+11. Music information retrieval analysis module to VCV voltage outputs (10-20 points)
+12. 3D sound source placement for multiple synthesizers (10-20 points) 
+13. GPU sound syntheis (torch synth) (10-20 points) 
+14. Multi-computer network synthesis (10-20 points) 
 
 Total points: 50 
 
