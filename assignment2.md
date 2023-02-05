@@ -19,25 +19,20 @@ Chuck, Supercollider, Csound, Nyquist, and Faust and visual programming language
 for languages such as PureData and Max/MSP. 
 
 Unless explicitly stated you can use any programming languages for implementing 
-the questions. If you need access to devices ask me via email or through Discord for 
+the questions. Using a computer music language moves the degree of difficulty down and using an unfamiliar programming language moves it up. For example if you implement question 6 in Max/MSP or Chuck it counts as basic rather than expected. If you implement question 6 in an unfamiliar programming languages it can count as advanced. In general, I am flexible so if you want to adjust things just let me know. Also if you 
+think of a question of comparable difficulty that you would like do again let me know and most likely 
+it should be ok. 
+
+If you need access to devices ask me via email or through Discord for 
 access to ECS602. 
 
 
-1. (Basic) **MIDI to MIDI communication** 
-
-Connect directly using MIDI two hardware devices without going through a computer (sometimes 
-this is termed a DAWLESS setup). Write a short text description of which devices you connected 
-and what issues you had to figure out. You will need to read a bit about MIDI input, output, and cables. 
-A classic example could be connecting a MIDI keyboard and generating sound in a different keyboard or rack-mount synthesizer but it does not have to be a keyboard or synthesizers as long as it is clear you have 
+1. (Basic) **MIDI to MIDI communication**  Connect directly using MIDI two hardware devices without going through a computer (sometimes this is termed a DAWLESS setup). Write a short text description of which devices you connected and what issues you had to figure out. You will need to read a bit about MIDI input, output, and cables. A classic example could be connecting a MIDI keyboard and generating sound in a different keyboard or rack-mount synthesizer but it does not have to be a keyboard or synthesizers as long as it is clear you have 
 two devices communicating with each other. 
 
-2. (Basic) **COMPLEX NUMBER MULTIPLICATION** 
+2. (Basic) **COMPLEX NUMBER MULTIPLICATION**  Show using a figure, programming, and math what is the result multiplying the complex number $(2+j)$ with $j$. For programming, represent the complex number as an array, list, or tuple and directly implement the complex number multiplication in terms of real and imaginary parts without using any built-in libraries or types for complex numbers. 
 
-Show using a figure, programming, and math what is the result multiplying the complex number $(2+j)$ with $j$. For programming, represent the complex number as an array, list, or tuple and directly implement the complex number multiplication in terms of real and imaginary parts without using any built-in libraries or types for complex numbers. 
-
-3. (Basic) **MIDI to COMPUTER** 
-
-Connect a hardware MIDI device to your laptop or desktop. Write code that prints out MIDI messages whenever they are received. Some devices can connect directly through USB, there are cheap USB to MIDI converters or you can go through an audio interface that has MIDI functionality. Similarly to question 1, just document your experience, what challenges you encountered, and what you learned. 
+3. (Basic) **MIDI to COMPUTER** Connect a hardware MIDI device to your laptop or desktop. Write code that prints out MIDI messages whenever they are received. Some devices can connect directly through USB, there are cheap USB to MIDI converters or you can go through an audio interface that has MIDI functionality. Similarly to question 1, just document your experience, what challenges you encountered, and what you learned. 
 
 
 4. (Basic) **Amplitude Estimation in Mixtures** Create one second of audio by summing the following sinusoidal frequencies ($100Hz, 200Hz, 300Hz$) all with the same phase, and three random amplitudes between $0.0$ and $1.0$. Listen to the generated sound and create 4 plots one for each individual sinusoid and one for the resulting mixed sound. Each plot should correspond to the time duration of one period of the lowest sinusoid ($100Hz$). Show how you can estimate these three random amplitudes by taking the dot product of the mixture with basis sinusoids of amplitude 1 for the three frequencies ($100Hz, 200Hz, 300Hz$). 
@@ -59,9 +54,7 @@ You only need to implement 2 out of the 4 advanced questions. They are intention
 
 11. (Advanced) **SIMPLE SUBTRACTIVE SYNTHESIZER** Read about and implement a BiQuad filter. Use the filter to process noise and experiment a bit with the frequency and bandwidth (Q) controls as well as an envelope on the resulting sound. Play a simple melody by simply adjusting the frequency and envelopes of the filter as it is proceesing noise. 
 
-12. (Advanced) **RETRO GAME SOUND ENGINE** 
-
-Old arcade machines, game consoles, and computers used programmable sound generator chips which were based on synthesizer technology to create music. https://en.wikipedia.org/wiki/Chiptune
+12. (Advanced) **RETRO GAME SOUND ENGINE**  Old arcade machines, game consoles, and computers used programmable sound generator chips which were based on synthesizer technology to create music. https://en.wikipedia.org/wiki/Chiptune
 Either read about an existing chip or create a simple one on your own and try to write some interesting chiptune music with it. You already have a lot of the building components from this and the previous assignment. 
 
 
