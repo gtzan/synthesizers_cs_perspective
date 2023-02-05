@@ -45,23 +45,24 @@ Connect a hardware MIDI device to your laptop or desktop. Write code that prints
 
 5. (Expected) **Amplitude and Phase Estimation in Mixture** This is an extension of question 4. Extend your code from question 4 so that the three sinusoidal components have random phases in addition to random amplitudes. Listen to the generated sound and create 4 plots one for each individual sinusoid and one for the resulting mixed sound. Each plot should correspond to the time duration of one period of the lowest sinusoid ($100Hz$). Show how the amplitudes and phases can be estimated for this sound in two ways: a) by brute force checking even possible phase value and selecting that one that results in the highest dot product with a basis sinusoid of the appropriate frequency b) by taking the dot product of the mixture with a sine component and a cosine component. 
 
-6. (Expected) **MIDI Arpeggiator**
+6. (Expected) **MIDI Arpeggiator** Write a MIDI arepggiator. First you will need to have code for writing MIDI messages and a device for playing sound. For this question you can use software synthesizers or other software for the sound generation pehraps you simple synth from the previous assignment i.e you don't need a hardware MIDI device. The input to the arpeggiator will be a set of MIDI note numbers, a tempo, and a mode (up, down, up/down, random) and the output will be repeating patterns of MIDI note messages that when played by a software synthesizer correspond to the arpeggiated notes. 
 
-Write a MIDI arepggiator. First you will need to have code for writing MIDI messages and a device for playing sound. For this question you can use software synthesizers or other software for the sound generation pehraps you simple synth from the previous assignment i.e you don't need a hardware MIDI device. The input to the arpeggiator will be a set of MIDI note numbers, a tempo, and a mode (up, down, up/down, random) and the output will be repeating patterns of MIDI note messages that when played by a software synthesizer correspond to the arpeggiated notes. 
+7. (Expected) **EQUAL TEMPERAMENTS** Write code to generate a simple note of an arbitrary frequency - the note should have a simple ADSR envelope and not be a simple sine wave. Using this code play "scales" i.e all the notes going up and down for different equal temperament tuning systems. Generate scales for the following 3-equal temperament, 4-equal temperament, 5-equal temperament, ..., 12-equal temperament. Use 110Hz as your first note and in addition to the scale going up and down play a fixed drone throughout at 110Hz using a continuous version of the same "instrument" i.e it has only an attack and sustain but no release until the full scale is played. Briefly comment on what you hear for the different systems. 
 
-7. (Expected) Write code to generate a simple note of an arbitrary frequency - the note should have a simple ADSR envelope and not be a simple sine wave. Using this code play "scales" i.e all the notes going up and down for different equal temperament tuning systems. Generate scales for the following 3-equal temperament, 4-equal temperament, 5-equal temperament, ..., 12-equal temperament. Use 110Hz as your first note and in addition to the scale going up and down play a fixed drone throughout at 110Hz using a continuous version of the same "instrument" i.e it has only an attack and sustain but no release until the full scale is played. Briefly comment on what you hear for the different systems. 
+8. (Expected) **COMPLEX NUMBER PLOTTING** Write code that takes as input a time in minutes and seconds and converts that to two complex numbers corresponding to the positions of the minute hand and second hand on a clock. What complex number do we need to multiply a particular second hand position to move by one second (clockwise)? What complex number of we need to multiply to move by one second (counter-clockwise). Show your answer by creating a corresponding plot. 
 
-8. (Expected) Write code that takes as input a time in minutes and seconds and converts that to two complex numbers corresponding to the positions of the minute hand and second hand on a clock. What complex number do we need to multiply a particular second hand position to move by one second (clockwise)? What complex number of we need to multiply to move by one second (counter-clockwise). Show your answer by creating a corresponding plot. 
+You only need to implement 2 out of the 4 advanced questions. They are intentionally not specified in detail as there is considerable room for individual variations. 
 
-You only need to implement 2 advanced questions. 
+9. (Advanced) **MIDI STEP SEQUENCER** Write a MIDI step sequencer. You sequencer should at least support recording, playback, tempo, and multiple tracks. 
 
-9. (Advanced) Step sequencer 
+10. (Advanced) **DRUM MACHINE** Write a drum machine that allows the user to create rhythms using step-sequencing. Use samples from the freesound website for the different drum kit sounds or synthesize them if you prefer. 
 
-10. (Advanced) 
+11. (Advanced) **SIMPLE SUBTRACTIVE SYNTHESIZER** Read about and implement a BiQuad filter. Use the filter to process noise and experiment a bit with the frequency and bandwidth (Q) controls as well as an envelope on the resulting sound. Play a simple melody by simply adjusting the frequency and envelopes of the filter as it is proceesing noise. 
 
-11. (Advanced) Drum machine 
+12. (Advanced) **RETRO GAME SOUND ENGINE** 
 
-12. 
+Old arcade machines, game consoles, and computers used programmable sound generator chips which were based on synthesizer technology to create music. https://en.wikipedia.org/wiki/Chiptune
+Either read about an existing chip or create a simple one on your own and try to write some interesting chiptune music with it. You already have a lot of the building components from this and the previous assignment. 
 
 
 
