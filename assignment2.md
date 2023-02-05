@@ -13,7 +13,14 @@ language to refer to the ones that you probably have encountered during your
 studies: Python, C, C++, Java, and Javascript. As you probably can guess I will use the
 term unfamiliar programming language to refer to any other programming
 language such as: Haskell, OCaml, Prolog, Rust, Go, Julia, Ruby, C#, F#
-R, etc.
+R, etc. I will use the term computer music textual languages to refer to languages 
+that have extensive support and primitives for sound and music manipulation such as 
+Chuck, Supercollider, Csound, Nyquist, and Faust and visual programming languages 
+for languages such as PureData and Max/MSP. 
+
+Unless explicitly stated you can use any programming languages for implementing 
+the questions. If you need access to devices ask me via email or through Discord for 
+access to ECS602. 
 
 
 1. (Basic)
@@ -26,4 +33,17 @@ two devices communicating with each other.
 
 2. (Basic) 
 
-Show using a figure and math that multiplying the complex number $(2+1j)$ with $j$ 
+Show using a figure, programming, and math what is the result multiplying the complex number $(2+j)$ with $j$. For programming, represent the complex number as an array, list, or tuple and directly implement the complex number multiplication in terms of real and imaginary parts without using any built-in libraries or types for complex numbers. 
+
+3. (Basic) 
+
+Connect a hardware MIDI device to your laptop or desktop. Write code that prints out MIDI messages whenever they are received. Some devices can connect directly through USB, there are cheap USB to MIDI converters or you can go through an audio interface that has MIDI functionality. Similarly to question 1, just document your experience, what challenges you encountered, and what you learned. 
+
+
+4. (Basic) Create one second of audio by summing the following sinusoidal frequencies ($100Hz, 200Hz, 300Hz$) all with the same phase, and random amplitudes between $0.0$ and $1.0$.  
+
+
+5. 
+
+
+
