@@ -40,10 +40,10 @@ Show using a figure, programming, and math what is the result multiplying the co
 Connect a hardware MIDI device to your laptop or desktop. Write code that prints out MIDI messages whenever they are received. Some devices can connect directly through USB, there are cheap USB to MIDI converters or you can go through an audio interface that has MIDI functionality. Similarly to question 1, just document your experience, what challenges you encountered, and what you learned. 
 
 
-4. (Basic) Create one second of audio by summing the following sinusoidal frequencies ($100Hz, 200Hz, 300Hz$) all with the same phase, and random amplitudes between $0.0$ and $1.0$.  
+4. (Basic) Create one second of audio by summing the following sinusoidal frequencies ($100Hz, 200Hz, 300Hz$) all with the same phase, and three random amplitudes between $0.0$ and $1.0$. Listen to the generated sound and create 4 plots one for each individual sinusoid and one for the resulting mixed sound. Each plot should correspond to the time duration of one period of the lowest sinusoid ($100Hz$). Show how you can estimate these three random amplitudes by taking the dot product of the mixture with basis sinusoids of amplitude 1 for the three frequencies ($100Hz, 200Hz, 300Hz$). 
 
 
-5. 
+5. (Expected) This is an extension of question 4. Extend your code from question 4 so that the three sinusoidal components have random phases in addition to random amplitudes. Listen to the generated sound and create 4 plots one for each individual sinusoid and one for the resulting mixed sound. Each plot should correspond to the time duration of one period of the lowest sinusoid ($100Hz$). Show how the amplitudes and phases can be estimated for this sound in two ways: 
 
 
 
