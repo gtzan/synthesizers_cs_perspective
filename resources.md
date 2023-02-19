@@ -19,7 +19,7 @@ These links are in no particular order. I just tried to collect interesting link
 
 ### Software synthesizers and emulators 
 - Fluidsynth 
-- dxed 
+- dexed (https://github.com/asb2m10/dexed)
 - 
 
 
