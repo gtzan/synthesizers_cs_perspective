@@ -1,8 +1,9 @@
 # Resources of Synthesizers: a CS perspective
 
-These links are in no particular order. I just tried to collect interesting stuff and somewhat organize it. 
+These links are in no particular order. I just tried to collect interesting links and somewhat organize the information. 
 
 ## Software 
+
 
 ### Languages and Frameworks 
 - [Csound] (https://csound.com/)
@@ -10,9 +11,9 @@ These links are in no particular order. I just tried to collect interesting stuf
 -  [Chuck] (https://chuck.stanford.edu/)
 - [Max/MSP] (https://cycling74.com/products/max)
 - [PureData] (http://puredata.info/)
-- Juce 
-- Faust 
-- 
+- [Juce] (https://juce.com/)
+- Faust (https://faust.grame.fr/)
+- [VCV Rack] (https://vcvrack.com/)
 
 ### Software synthesizers and emulators 
 - Fluidsynth 
