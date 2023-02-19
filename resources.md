@@ -49,6 +49,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Youngr](https://www.youtube.com/@Youngr_Music/featured) 
   - [The Kiffness](https://www.youtube.com/@TheKiffness) 
   - [Sarah Belle Reid](https://www.youtube.com/user/sarahbellereid) 
+  - [Carolina Eyck] (https://www.youtube.com/@carolinaeyckvideos) 
 
 
 ## People 
