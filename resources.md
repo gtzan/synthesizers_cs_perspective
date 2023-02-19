@@ -5,11 +5,11 @@ These links are in no particular order. I just tried to collect interesting stuf
 ## Software 
 
 ### Languages and Frameworks 
-- Csound 
-- Supercollider
--  Chuck 
-- Max/MSP 
-- PureData 
+- [Csound] (https://csound.com/)
+- [Supercollider] (https://supercollider.github.io/)
+-  [Chuck] (https://chuck.stanford.edu/)
+- [Max/MSP] (https://cycling74.com/products/max)
+- [PureData] (http://puredata.info/)
 - Juce 
 - Faust 
 - 
