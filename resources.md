@@ -15,6 +15,7 @@ These links are in no particular order. I just tried to collect interesting link
 - Faust (https://faust.grame.fr/)
 - [VCV Rack] (https://vcvrack.com/)
 - [Madrona Lib] (https://github.com/madronalabs/madronalib)
+- [Glicol] (https://glicol.org/)
 
 ### Software synthesizers and emulators 
 - Fluidsynth 
