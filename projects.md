@@ -14,23 +14,26 @@ The goal of this project will be to analyze the sound of different car engines a
 
 5. Physical modeling of strings and bars - Robert 
 
-
-7. Porting Music V compiler - Cameron 
-
-
-8. Live coding environment - Grace 
+   This project intends to explore the sounds of the Zimbabwean mbira through physical modelling synthesis techniques.
+   See project github: https://github.com/rsmwood/mbira-modelling
 
 
+6. Porting Music V compiler - Cameron 
 
 
-10. Music programming language - Vicky 
+7. Live coding environment - Grace 
 
 
 
-12. Embedded tracker - Iain 
+
+8. Music programming language - Vicky 
 
 
-14. Oversampled and memory-heavy digital oscillators - Iain 
+
+9. Embedded tracker - Iain 
+
+
+10. Oversampled and memory-heavy digital oscillators - Iain 
 
 
 
