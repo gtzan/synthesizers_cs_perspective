@@ -14,6 +14,7 @@ These links are in no particular order. I just tried to collect interesting link
 - [Juce] (https://juce.com/)
 - Faust (https://faust.grame.fr/)
 - [VCV Rack] (https://vcvrack.com/)
+- [Madrona Lib] (https://github.com/madronalabs/madronalib)
 
 ### Software synthesizers and emulators 
 - Fluidsynth 
