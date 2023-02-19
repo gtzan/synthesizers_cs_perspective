@@ -36,6 +36,7 @@ These links are in no particular order. I just tried to collect interesting link
 ## Videos 
 
 ### Historic 
+  - [History of synthesizers - Google Arts and Culture] (https://artsandculture.google.com/story/instrument-history-the-synthesizer-philharmonie-de-paris/NAWhuXju46u1pg?hl=en)
   - [Thomas Dolby synthesizer explanation](https://www.youtube.com/watch?v=dR-Qf1vwd28)
   - [The synthesizers of classic jazz fusion](https://reverb.com/news/the-synthesizers-of-classic-jazz-fusion?fbclid=IwAR1cPrbmIYZqEpgQ_mEmUR175NLjR5XljfKLjd5warSXD4BGWgURE8b0ZJ0)
   - [Ondes Martenot - manufacture](https://www.youtube.com/watch?v=Zp4mBmsV6Xk)
