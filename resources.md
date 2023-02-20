@@ -65,11 +65,12 @@ These links are in no particular order. I just tried to collect interesting link
 
 ## Guest Speakers (potential not confirmed) 
 
-1. Gayle Young 
-2. Dan Godlovich 
-3. Sarah Belle Reid 
-4. Randy Jones 
-6. Perry Cook 
-7. Spencer Toppel 
-8. Adrian Freed 
+- [Randy Jones-Madrona Labs](https://madronalabs.com/about)
+- Gayle Young 
+- Dan Godlovich 
+- Sarah Belle Reid 
+- Randy Jones - Madrona Labs 
+- Perry Cook 
+- Spencer Toppel 
+- Adrian Freed 
 
