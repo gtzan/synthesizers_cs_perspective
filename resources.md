@@ -30,6 +30,8 @@ These links are in no particular order. I just tried to collect interesting link
 ## Publications 
 
 ## Synthesizers 
+### Roland D-50 
+- [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
 
 ## Music 
 
