@@ -50,6 +50,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Herbie Hancock and Quincy Jones jamming with the Fairlight CMI](https://www.youtube.com/watch?v=n6QsusDS_8A)
   - [Apple Macintosh Promo Video for MIDI capabilities](https://www.youtube.com/watch?v=7sACo5QntGc)
   - [Herbie Hancock demonstrating the Fairlight CMI at Sesame Street](https://www.youtube.com/watch?v=daLceM3qZmI)
+  - [Korg M1 retrospective overview and demo (Japanese with subtitles)](https://youtu.be/f6TYxRfeZos)
 
 ### Youtube channels  
   - [Bad Gear](https://www.youtube.com/@AudioPilz)
