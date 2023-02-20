@@ -47,6 +47,9 @@ These links are in no particular order. I just tried to collect interesting link
   - [Ondex Martenot - performance](https://www.youtube.com/watch?v=v0aflcF0-ys)
   - [History of the Fairlight CMI](https://www.youtube.com/watch?v=jkiYy0i8FtA)
   - [Wendy Carlos - building sounds using synthesizer](https://www.youtube.com/watch?v=UsW2EDGbDqg) 
+  - [Herbie Hancock and Quincy Jones jamming with the Fairlight CMI](https://www.youtube.com/watch?v=n6QsusDS_8A)
+  - [Apple Macintosh Promo Video for MIDI capabilities](https://www.youtube.com/watch?v=7sACo5QntGc)
+  - [Herbie Hancock demonstrating the Fairlight CMI at Sesame Street](https://www.youtube.com/watch?v=daLceM3qZmI)
 
 ### Youtube channels  
   - [Bad Gear](https://www.youtube.com/@AudioPilz)
