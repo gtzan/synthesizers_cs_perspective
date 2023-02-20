@@ -33,6 +33,10 @@ These links are in no particular order. I just tried to collect interesting link
 
 ## Music 
 
+## Unconventional controllers 
+
+- [Arithmophone] (https://chielzwinkels.net/arithmophone/)
+
 ## Videos 
 
 ### Historic 
