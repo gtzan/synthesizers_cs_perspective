@@ -1,6 +1,6 @@
 # Resources of Synthesizers: a CS perspective
 
-These links are in no particular order. I just tried to collect interesting links and somewhat organize the information. 
+These links are in no particular order. I just tried to collect interesting links and somewhat organize the information. There might also be some overlap with links appearing in more than one topic/group. 
 
 ## Software 
 
@@ -62,7 +62,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Sarah Belle Reid](https://www.youtube.com/user/sarahbellereid) 
   - [Carolina Eyck](https://www.youtube.com/@carolinaeyckvideos) 
   - [Johnny Morgan's synth dreams](https://www.youtube.com/@johnnymorgansynthdreams)
-
+  - [Syntaur](https://www.youtube.com/@Syntaur)
 
 ## People 
 
