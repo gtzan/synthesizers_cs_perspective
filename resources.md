@@ -25,6 +25,12 @@ These links are in no particular order. I just tried to collect interesting link
 
 ## Books 
 
+- Computer Music Tutorial 
+- Real-time interactive sound synthesis - Perry Cook 
+- Designing Sound - Andy Farnell 
+- Digital Signal Processing Primer - Ken Steiglitz 
+- 
+
  
 
 ## Publications 
