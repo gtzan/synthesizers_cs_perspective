@@ -76,7 +76,6 @@ These links are in no particular order. I just tried to collect interesting link
 - Gayle Young 
 - Dan Godlovich 
 - Sarah Belle Reid 
-- Randy Jones - Madrona Labs 
 - Perry Cook 
 - Spencer Toppel 
 - Adrian Freed 
