@@ -69,6 +69,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Carolina Eyck](https://www.youtube.com/@carolinaeyckvideos) 
   - [Johnny Morgan's synth dreams](https://www.youtube.com/@johnnymorgansynthdreams)
   - [Syntaur](https://www.youtube.com/@Syntaur)
+  - [Synthquest](https://www.youtube.com/@madFame)
 
 ## People 
 
