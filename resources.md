@@ -38,7 +38,7 @@ These links are in no particular order. I just tried to collect interesting link
 ## Synthesizers 
 
 ### Yamaha DX7 
-- [A short documentary about the Yamaha DX7](https://www.youtube.com/watch?v=sXt_NXjc7oY)
+- [Documentary about the origins of FM synthesis and the Yamaha DX7](https://www.youtube.com/watch?v=sXt_NXjc7oY)
 
 ### Roland D-50 
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
