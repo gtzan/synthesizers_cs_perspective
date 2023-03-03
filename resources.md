@@ -36,6 +36,10 @@ These links are in no particular order. I just tried to collect interesting link
 ## Publications 
 
 ## Synthesizers 
+
+### Yamaha DX7 
+- [A short documentary about the Yamaha DX7](https://www.youtube.com/watch?v=sXt_NXjc7oY)
+
 ### Roland D-50 
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
 
