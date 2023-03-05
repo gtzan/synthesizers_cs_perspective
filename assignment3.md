@@ -26,7 +26,7 @@ it should be ok.
 If you need access to devices ask me via email or through Discord for access to ECS602. 
 
 
-1. (Basic) Watch one of the videos listed under Resources. Select a short part of the video (something like 15-30 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
+1. (Basic) Watch one of the videos listed under [Resources](resources.md). Select a short part of the video (something like 15-30 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
 2. (Basic) Watch one of the interviews listed under Resources. Select a short part of the interview (something like 30-60 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
@@ -40,7 +40,7 @@ If you need access to devices ask me via email or through Discord for access to 
 
 7. (Expected) Synthesize a percussive sound using FM synthesis. The attack should be short and there should be many frequencies (i.e a high modulation index). Experiment with the amplitude and modulation index envelope shape until you have a good percussive sound. 
 
-8. (Expected) Implement the parametric two pole filter used in the water bottle paper and described in this publication - create two audio examples showing how it can be used: https://ccrma.stanford.edu/~jos/smac03maxjos/smac03maxjos.pdf
+8. (Expected) Implement the parametric two pole filter used in the water bottle modal synthesis paper and described in this publication - create two audio examples showing how it can be used: https://ccrma.stanford.edu/~jos/smac03maxjos/smac03maxjos.pdf
 
 10. (Advanced) 
 
