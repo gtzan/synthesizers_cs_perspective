@@ -23,26 +23,25 @@ the questions. Using a computer music language moves the degree of difficulty do
 think of a question of comparable difficulty that you would like do again let me know and most likely 
 it should be ok. 
 
-If you need access to devices ask me via email or through Discord for 
-access to ECS602. 
+If you need access to devices ask me via email or through Discord for access to ECS602. 
 
 
-1. (Basic) 
+1. (Basic) Watch one of the videos listed under Resources. Select a short part of the video (something like 15-30 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
-2. (Basic) 
+2. (Basic) Watch one of the interviews listed under Resources. Select a short part of the interview (something like 30-60 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
-3. (Basic) 
+3. (Basic) Get two different coffee mugs and record the sound of hitting them with a pen. Plot the corresponding magnitude spectra (there is some code for plotting magnitude spectra in Python in the FM synthesis notebook) - you are welcome to use other tools. 
 
-4. (Basic) 
+4. (Basic) Create two additive synthesis models of the coffee mug recordings from question 3. Each model should consist of 4 sinusoidal oscillators and associated envelopes. Listen to the resulting sound and comment on whether you can recognize which coffee mug is which from the additive synthesis approximation. You can use any language (including computer music languages) for this question. 
 
-5. (Expected) 
+5. (Expected) Create two modal synthesis models of the coffee mug recordings from question 3. Each model should consist of 4 BiQuad filters with appropriate associated center frequencies and resonances excited by an impulse function. Listen to the resulting sound and comment on whether you can recognize which coffee mug is which from the modal synthesis approximation. You can use any language (including computer music languages) for this question.  
 
-6. (Expected) 
+6. (Expected) Compare the mangitude spectra of the original mug recordings, the additive synthesis approximation, and the modal synthesis approximation. Describe what you observe and comment on whether it corresponds to what you hear. 
 
-7. (Expected)
+7. (Expected) Synthesize a percussive sound using FM synthesis. The attack should be short and there should be many frequencies (i.e a high modulation index). Experiment with the amplitude and modulation index envelope shape until you have a good percussive sound. 
 
-8. (Expected) 
+8. (Expected) Implement the parametric two pole filter used in the water bottle paper and described in this publication - create two audio examples showing how it can be used: https://ccrma.stanford.edu/~jos/smac03maxjos/smac03maxjos.pdf
 
-9. (Advanced) 
+10. (Advanced) 
 
 10. (Advanced) 
