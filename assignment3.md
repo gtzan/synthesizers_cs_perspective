@@ -1,7 +1,7 @@
-# Assignment 2 
+# Assignment 3 
 
-DSP AND MIDI 
-------------------
+Modal synthesis, spectral analysis and FM synthesis 
+----------------------------------------------------
 
 In this assignment we will explore some fundamental DSP concepts 
 to better understand the concepts we covered in class. In addition, 
@@ -27,5 +27,4 @@ If you need access to devices ask me via email or through Discord for
 access to ECS602. 
 
 
-1. (Basic) **MIDI to MIDI communication**  Connect directly using MIDI two hardware devices without going through a computer (sometimes this is termed a DAWLESS setup). Write a short text description of which devices you connected and what issues you had to figure out. You will need to read a bit about MIDI input, output, and cables. A classic example could be connecting a MIDI keyboard and generating sound in a different keyboard or rack-mount synthesizer but it does not have to be a keyboard or synthesizers as long as it is clear you have 
-two devices communicating with each other. 
+1. (Basic) 
