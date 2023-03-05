@@ -25,7 +25,6 @@ it should be ok.
 
 If you need access to devices ask me via email or through Discord for access to ECS602. 
 
-
 1. (Basic) Watch one of the videos listed under [Resources](resources.md). Select a short part of the video (something like 15-30 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
 2. (Basic) Watch one of the interviews listed under [Resources](resources.md). Select a short part of the interview (something like 30-60 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
@@ -42,6 +41,7 @@ If you need access to devices ask me via email or through Discord for access to 
 
 8. (Expected) Implement the parametric two pole filter used in the water bottle modal synthesis paper and described in this publication - create two audio examples showing how it can be used: https://ccrma.stanford.edu/~jos/smac03maxjos/smac03maxjos.pdf
 
-10. (Advanced) 
+9. (Advanced) Use the parametric two-pole filter mentioned in question 8 to create another modal synthesis approximation for the two coffee mugs of questions 5,6. Repeat the comparison between the different models both in terms of magnitude spectrums and in terms of listening. The water bottle modal synthesis paper (https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_24.pdf) describes a process for estimating the mode decay that you can follow for the coffee mug recordings. 
 
-10. (Advanced) 
+10. (Advanced) Implemented a real-time version of any of the synthesis models you developed in this assignments. You can use any language/programming environment for this question. 
+
