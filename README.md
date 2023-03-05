@@ -6,6 +6,7 @@
 3. [Uvic course outline January 2022](https://heat.csc.uvic.ca/coview/course/2023011/CSC484D) 
 4. [Discord server for discussions, January 2022](https://discord.gg/vvU6YmhhtS)
 5. [Project Ideas](projects.md) 
+6. [Resources](resources.md) 
 
 
 A repository containing information and resources used in the teaching of the course **Synthesizers: a computer science perspective**. This course is developed by George Tzanetakis and was first taught in January 2023 as 4th year computer science and graduate topics course. Synthesizers are musical instruments that generate sound using electrical signals. They generate sound waveform using a variety of synthesis methods and modify the resulting waveforms using various types of audio effects. The various sound generating and transforming modules are connected in various topologies and controlled using a variety of hardware controls such as sliders and rotary knobs and typically a keyboard for playing notes similar in layout to piano and organ keyboards. The course explores synthesizers using a computer science pespective with a focus on software implementation. 
@@ -45,6 +46,7 @@ The assignments for the course can be found here:
 
 1. [Assignment 1](assignment1.md) 
 2. [Assignment 2](assignment2.md)
+3. [Assignment 3](assignment3.md)
 
 There are several devices that can be used by the students for their projects and just simply playing around: 
 [Devices](devices.md) 
