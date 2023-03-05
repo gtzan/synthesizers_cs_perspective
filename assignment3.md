@@ -1,7 +1,7 @@
 # Assignment 3 
 
-Modal synthesis, spectral analysis and FM synthesis 
-----------------------------------------------------
+Modal synthesis, filters, spectral analysis and FM synthesis 
+------------------------------------------------------------
 
 In this assignment we will explore some fundamental DSP concepts 
 to better understand the concepts we covered in class. In addition, 
@@ -28,3 +28,21 @@ access to ECS602.
 
 
 1. (Basic) 
+
+2. (Basic) 
+
+3. (Basic) 
+
+4. (Basic) 
+
+5. (Expected) 
+
+6. (Expected) 
+
+7. (Expected)
+
+8. (Expected) 
+
+9. (Advanced) 
+
+10. (Advanced) 
