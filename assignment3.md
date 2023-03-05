@@ -28,7 +28,7 @@ If you need access to devices ask me via email or through Discord for access to 
 
 1. (Basic) Watch one of the videos listed under [Resources](resources.md). Select a short part of the video (something like 15-30 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
-2. (Basic) Watch one of the interviews listed under Resources. Select a short part of the interview (something like 30-60 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
+2. (Basic) Watch one of the interviews listed under [Resources](resources.md). Select a short part of the interview (something like 30-60 seconds) and make an explicit connection to any of the concepts we have covered in the course. Write a short paragraph describing the connection and provide the timing of the excerpt you considered. 
 
 3. (Basic) Get two different coffee mugs and record the sound of hitting them with a pen. Plot the corresponding magnitude spectra (there is some code for plotting magnitude spectra in Python in the FM synthesis notebook) - you are welcome to use other tools. 
 
