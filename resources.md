@@ -39,6 +39,7 @@ These links are in no particular order. I just tried to collect interesting link
 
 ### Yamaha DX7 
 - [Documentary about the origins of FM synthesis and the Yamaha DX7](https://www.youtube.com/watch?v=sXt_NXjc7oY)
+- [Reall detailed reverse engineering of the DX7 hardware](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
 
 ### Roland D-50 
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
