@@ -19,6 +19,9 @@ it should be ok.
 
 If you need access to devices ask me via email or through Discord for access to ECS602. 
 
+Fee free to suggest your own versions that follow a similar structure. For example if you have a different synthesizer that you would like to emulate using software - you can come up with similar questions to version 1 or if you find a paper you would like to implement you can come up with similar questions to version 2 and 3. 
+
+
 ## VERSION 1 - SOFTWARE SIMULATION OF THE YAMAHA DX 21 
 
 Any programming language that can do real-time audio processing and show a graphical user interface can be used 
