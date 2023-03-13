@@ -5,7 +5,7 @@
 Synthesizer software emulation and implementing research papers 
 --------------------------------------------------------------- 
 
-This assignment comes in two versions. The first version focuses on real-time implementation and software simulation of an existing synthesizer (the Yamaha DX21) and is heavier in terms of programming. The second version looks at the implementation of some synthesis techniques from research papers and is more focused on coding and presenting algorithms so it is less heavy in terms of programming but requires more math understanding. It will be easier if you work on one version or the other but if you decide to mix questions that is fine. As usual I will use the term familiar programming 
+This assignment comes in three versions. The first version focuses on real-time implementation and software simulation of an existing synthesizer (the Yamaha DX21) and is heavier in terms of programming. The other two versions look at the implementation of some synthesis techniques from research papers and are more focused on coding and presenting algorithms so they less heavy in terms of programming but requires more math understanding. The expected answer for versions 2 and 3 is not expected to be real-time and is expected to be a Python/Jupyter notebook. It will be easier if you work on one version or the other but if you decide to mix questions that is fine. As usual I will use the term familiar programming 
 language to refer to the ones that you probably have encountered during your  studies: Python, C, C++, Java, and Javascript. As you probably can guess I will use the term unfamiliar programming language to refer to any other programming language such as: Haskell, OCaml, Prolog, Rust, Go, Julia, Ruby, C#, F#
 R, etc. I will use the term computer music textual languages to refer to languages 
 that have extensive support and primitives for sound and music manipulation such as 
@@ -45,24 +45,63 @@ or as a VCV Rack module.
 
 10. (Advanced) Add a graphical-user interface to your synthesizer. You can try to recreate closely the interface of the DX21 or come up with your own possibly more intuitive way of editing patches. 
 
-## VERSION 2 - Research paper implementation 
+## VERSION 2 - Research paper implementation - Virtual analog synthesis 
 
-1. (Basic) 
+This version is based on the following paper: 
 
-2. (Basic) 
+Oscillator and Filter Algorithms for Virtual Analog Synthesis - Vesa Välimäki and Antti Huovilainen
+Source: Computer Music Journal , Summer, 2006, Vol. 30, No. 2 (Summer, 2006), pp. 19-31
+(https://www.jstor.org/stable/pdf/3682001.pdf) - you will need to be at UVIc or using UVic VPN to 
+access the paper. 
 
-3. (Basic) 
+1. (Basic) Summarize the main contributions of the paper in your own words (about 1-2 paragraphs) 
 
-4. (Basic) 
+2. (Basic) Explain in your own words Figure 4. More specifically explain what is the issue with the standard implementation of the sawtooth wave and how the "improved" version addresses that problem. 
 
-5. (Expected) 
+3. (Basic) Recreate Figure 4a using your own code and a plotting library. 
 
-6. (Expected) 
+4. (Basic) Recreate Figure 4b using your own code and a plotting library 
 
-7. (Expected) 
+5. (Expected) Implement the DPW sawtooth waveform and recreate Figures 4c,4d,4e and 4f. 
 
-8. (Expected) 
+6. (Expected) Implement the two-oscillator generation algorith for pulse waveform generation and recreate 
+7. the corresponding figures. 
 
-9. (Advanced) 
+7. (Expected) Implement the triangular waveform generation algorithm proposed in the paper and recreate the corresponding figures. 
 
-10. (Advanced) 
+8. (Expected) Generate some audio examples with continuously changing pitch and pulse-width in the case of the pulse waveform that contrast the naive aliased oscillators with the proposed ones. 
+
+9. (Advanced) Implement the digital moog filter part of the paper and re-create the associated figures. 
+
+10. (Advanced) Compare the computational efficiency of the proposed oscillators with a wavetable implementation in which the samples of one cycle of each waveform are stored and linear-interpolation is used. 
+
+
+## VERSION 3 - Research paper implementation - Bubble sound simulation 
+
+This version is based on the following research paper: 
+
+Physically Based Models for Liquid Sounds - Kees Van Den Doel 
+ACM Transactions on Applied Perception (TAP) 2.4 (2005): 534-546
+https://dl.acm.org/doi/pdf/10.1145/1101530.1101554
+
+1. (Basic) Explain in your own words the basic idea for modeling the sound of an individual bubble (1-2 paragraphs) 
+
+2. (Basic) Explain in your own owrds the basic idea for modeling the complex liquid sounds statistically (1-2 paragraphs) 
+
+3. (Basic) Record the sound of an individual droplet and plot the time-domain plot of the sound. 
+
+4. (Basic) Plot the magnitude spectrum and spectrogram using both linear and dB scaling for the y-axis. 
+
+5. (Expected) Implement the decaying sinusoid model described in the paper for the sound generation of an individual bubble sound. 
+
+6. (Expected) Recreate the sounds used in the user study based. 
+
+7. (Expected) Implement and plot the output of the Poisson process for bubble creation described in the paper. This question just models the event times for the bubbles 
+
+8. (Expected) Implement the full bubble simulator as described in the paper 
+
+9. (Advanced) Create a few "presets" by adjusting the creation rates for different sized bubbles. The paper mentions: "An enormous variety of waterlike sounds can be created with the simulator, ranging from intimate
+dripping sounds to torrential rains or waterfalls." Show audio examples of your simulator supporting this statement. 
+
+10. (Advanced) Create a buffered implementation of your system suitable for real-time synthesis. You don't need to implement an actual real-time system with a GUI but your simulator should work by producing samples in short fixed buffer sizes without artifacts. Of course if can implement a real-time version if you choose to do so. 
+
