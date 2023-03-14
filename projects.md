@@ -28,6 +28,10 @@ The goal of this project will be to analyze the sound of different car engines a
 
 8. Music programming language - Vicky 
 
+This is a simple music programming language (see [github project link](https://github.com/iamvickynguyen/Synthtax)). The language will be something like this [examples](https://github.com/iamvickynguyen/Synthtax/tree/antlr/test). The goal is to create some sound synthesis without coding some basic stuff such as a sine wave, ADSR, adding sounds, etc.
+
+Anyone with basic C++ and compiler knowledge is welcome!
+
 
 
 9. Embedded tracker - Iain 
