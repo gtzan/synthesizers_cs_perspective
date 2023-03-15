@@ -5,6 +5,12 @@
 1. Retro game sound engine - Cy 
 
    Old computers and game consoles included programmable sound generators which were chips that synthesized audio signals. These were used to create music for early video games and have similar architecture to synthesizers. Examples include the Commodore 64 and the Nintendo Entertainment System. The goal will be to have a software emulation of a chip like the MOS technology 6581 https://en.wikipedia.org/wiki/MOS_Technology_6581 and be able to render 8-bit game music using it. 
+   
+   https://github.com/crschung/vgm-audio-processor
+   
+   
+   
+   
 
 3. Car engine modeling - Mitchell 
 
