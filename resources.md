@@ -39,7 +39,9 @@ These links are in no particular order. I just tried to collect interesting link
 
 ### Yamaha DX7 
 - [Documentary about the origins of FM synthesis and the Yamaha DX7](https://www.youtube.com/watch?v=sXt_NXjc7oY)
-
+- [Reall detailed reverse engineering of the DX7 hardware](https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
+- [Exploration of the DX 21](https://www.youtube.com/watch?v=LZ_GKAZo77g)
+- [Bad Gear episode for DX7](https://www.youtube.com/watch?v=PbrzL1FlatE)
 ### Roland D-50 
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
 
@@ -55,6 +57,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [History of synthesizers - Google Arts and Culture](https://artsandculture.google.com/story/instrument-history-the-synthesizer-philharmonie-de-paris/NAWhuXju46u1pg?hl=en)
   - [Thomas Dolby synthesizer explanation](https://www.youtube.com/watch?v=dR-Qf1vwd28)
   - [The synthesizers of classic jazz fusion](https://reverb.com/news/the-synthesizers-of-classic-jazz-fusion?fbclid=IwAR1cPrbmIYZqEpgQ_mEmUR175NLjR5XljfKLjd5warSXD4BGWgURE8b0ZJ0)
+  - [Suzzane Ciani on Letterman] (https://www.youtube.com/watch?v=fZscRHkLMt0)
   - [Ondes Martenot - manufacture](https://www.youtube.com/watch?v=Zp4mBmsV6Xk)
   - [Ondex Martenot - performance](https://www.youtube.com/watch?v=v0aflcF0-ys)
   - [History of the Fairlight CMI](https://www.youtube.com/watch?v=jkiYy0i8FtA)
