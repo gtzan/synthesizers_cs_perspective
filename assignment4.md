@@ -67,8 +67,7 @@ access the paper.
 
 5. (Expected) Implement the DPW sawtooth waveform and recreate Figures 4c,4d,4e and 4f. 
 
-6. (Expected) Implement the two-oscillator generation algorith for pulse waveform generation and recreate 
-7. the corresponding figures. 
+6. (Expected) Implement the two-oscillator generation algorith for pulse waveform generation and recreate the corresponding figures. 
 
 7. (Expected) Implement the triangular waveform generation algorithm proposed in the paper and recreate the corresponding figures. 
 
