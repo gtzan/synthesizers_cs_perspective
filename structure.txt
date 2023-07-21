@@ -1,0 +1,9 @@
+
+Chapter 1 - The analog world and oscillators 
+Chapter 2 - Filters and spectral analysis 
+Chapter 3 - Control (sequencers, arpeggiators, MIDI, Open Sound Control) 
+Chapter 4 - Sampling, envelopes, and wavetable synthesis
+Chapter 5 - Modulation and FM synthesis 
+Chapter 6 - Modal synthesis 
+Chapter 5 - Additive synthesis and spectral modeling 
+
