@@ -48,6 +48,9 @@ The assignments for the course can be found here:
 2. [Assignment 2](assignment2.md)
 3. [Assignment 3](assignment3.md)
 4. [Assignment 4](assignment4.md)
+
+
+
 There are several devices that can be used by the students for their projects and just simply playing around: 
 [Devices](devices.md) 
 
