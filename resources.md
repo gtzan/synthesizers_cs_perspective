@@ -8,11 +8,11 @@ These links are in no particular order. I just tried to collect interesting link
 ### Languages and Frameworks 
 - [Csound] (https://csound.com/)
 - [Supercollider] (https://supercollider.github.io/)
--  [Chuck] (https://chuck.stanford.edu/)
+- [Chuck] (https://chuck.stanford.edu/)
 - [Max/MSP] (https://cycling74.com/products/max)
 - [PureData] (http://puredata.info/)
 - [Juce] (https://juce.com/)
-- Faust (https://faust.grame.fr/)
+- [Faust] (https://faust.grame.fr/)
 - [VCV Rack] (https://vcvrack.com/)
 - [Madrona Lib] (https://github.com/madronalabs/madronalib)
 - [Glicol] (https://glicol.org/)
@@ -22,6 +22,8 @@ These links are in no particular order. I just tried to collect interesting link
 - dexed (https://github.com/asb2m10/dexed)
 - 
 
+### Tracker software 
+- [Bassoon Tracker] (https://www.stef.be/bassoontracker/?index=2)
 
 ## Books 
 
