@@ -48,6 +48,10 @@ These links are in no particular order. I just tried to collect interesting link
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
 
 ## Music 
+- [Donna Summers - I feel love (step-sequencer](https://www.youtube.com/watch?v=gHF-w8yGrHI&list=RDgHF-w8yGrHI&start_radio=1)
+- [Donna Summers - I feel love reconstruction][https://www.youtube.com/watch?v=9X2dgsKfphA]
+- [Pink Floyd - On the run (step-sequencer, filtering](https://www.youtube.com/watch?v=G0wOOlwXLgA)
+- [Pink Floyd - On the run reconstruction](https://www.youtube.com/watch?v=H_HwIn2DPv0)
 
 ## Unconventional controllers 
 
