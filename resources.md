@@ -87,9 +87,9 @@ These links are in no particular order. I just tried to collect interesting link
   - 
 
 
-## Guest Speakers  
+## Virtual Chats  
 
-- [Randy Jones-Madrona Labs](https://madronalabs.com/about)(https://youtu.be/-COArCjOZF4)
+- [Randy Jones-Madrona Labs](https://madronalabs.com/about) - (https://youtu.be/-COArCjOZF4)
 - Gayle Young 
 - Dan Godlovich 
 - Sarah Belle Reid 
