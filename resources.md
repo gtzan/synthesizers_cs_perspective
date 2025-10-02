@@ -51,7 +51,7 @@ These links are in no particular order. I just tried to collect interesting link
 
 ## Unconventional controllers 
 
-- [Arithmophone] (https://chielzwinkels.net/arithmophone/)
+- [Arithmophone](https://chielzwinkels.net/arithmophone/)
 
 ## Videos 
 
@@ -59,7 +59,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [History of synthesizers - Google Arts and Culture](https://artsandculture.google.com/story/instrument-history-the-synthesizer-philharmonie-de-paris/NAWhuXju46u1pg?hl=en)
   - [Thomas Dolby synthesizer explanation](https://www.youtube.com/watch?v=dR-Qf1vwd28)
   - [The synthesizers of classic jazz fusion](https://reverb.com/news/the-synthesizers-of-classic-jazz-fusion?fbclid=IwAR1cPrbmIYZqEpgQ_mEmUR175NLjR5XljfKLjd5warSXD4BGWgURE8b0ZJ0)
-  - [Suzzane Ciani on Letterman] (https://www.youtube.com/watch?v=fZscRHkLMt0)
+  - [Suzzane Ciani on Letterman](https://www.youtube.com/watch?v=fZscRHkLMt0)
   - [Ondes Martenot - manufacture](https://www.youtube.com/watch?v=Zp4mBmsV6Xk)
   - [Ondex Martenot - performance](https://www.youtube.com/watch?v=v0aflcF0-ys)
   - [History of the Fairlight CMI](https://www.youtube.com/watch?v=jkiYy0i8FtA)
