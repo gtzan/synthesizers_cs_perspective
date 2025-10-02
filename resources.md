@@ -18,8 +18,8 @@ These links are in no particular order. I just tried to collect interesting link
 - [Glicol] (https://glicol.org/)
 
 ### Software synthesizers and emulators 
-- Fluidsynth 
-- dexed (https://github.com/asb2m10/dexed)
+- [Fluidsynth](https://www.fluidsynth.org/)
+- [dexed](https://github.com/asb2m10/dexed)
 - 
 
 ### Tracker software 
@@ -92,13 +92,14 @@ These links are in no particular order. I just tried to collect interesting link
   - 
 
 
-## Virtual Chats  
+## Virtual Conversations  
 
 - [Randy Jones-Madrona Labs](https://madronalabs.com/about) - (https://youtu.be/-COArCjOZF4)
-- Gayle Young 
+- [Gayle Young](https://youtu.be/V35BeBvlvG0)
+- [Perry Cook](https://youtu.be/9E1eJlUYDM4)
+- [Ge Wang](https://youtu.be/tl4DJik7DSg)
 - Dan Godlovich 
-- Sarah Belle Reid 
-- Perry Cook 
+- Sarah Belle Reid  
 - Spencer Toppel 
 - Adrian Freed 
 
