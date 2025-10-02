@@ -83,12 +83,13 @@ These links are in no particular order. I just tried to collect interesting link
 ## People 
 
   - [Hugh LeCain](https://www.hughlecaine.com/en/links.html) 
+  - [John Chowning](https://ccrma.stanford.edu/people/john-chowning)
   - 
 
 
-## Guest Speakers (potential not confirmed) 
+## Guest Speakers  
 
-- [Randy Jones-Madrona Labs](https://madronalabs.com/about)
+- [Randy Jones-Madrona Labs](https://madronalabs.com/about)(https://youtu.be/-COArCjOZF4)
 - Gayle Young 
 - Dan Godlovich 
 - Sarah Belle Reid 
