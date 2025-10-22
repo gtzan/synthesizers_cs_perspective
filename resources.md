@@ -94,7 +94,10 @@ These links are in no particular order. I just tried to collect interesting link
 
   - [Hugh LeCain](https://www.hughlecaine.com/en/links.html) 
   - [John Chowning](https://ccrma.stanford.edu/people/john-chowning)
-  - 
+
+   
+## Live Performances 
+- [Awareness (2012) by Roberto Morales Manzanares](https://www.youtube.com/watch?v=2NCeHWJxYcg)
 
 
 ## Virtual Conversations  
