@@ -85,6 +85,10 @@ These links are in no particular order. I just tried to collect interesting link
   - [Syntaur](https://www.youtube.com/@Syntaur)
   - [Synthquest](https://www.youtube.com/@madFame)
 
+## Talks 
+ - [George Lewis - Why do we want our computers to improvise](https://www.youtube.com/watch?v=wDP8FsjyCaA)
+   
+
 ## People 
 
   - [Hugh LeCain](https://www.hughlecaine.com/en/links.html) 
