@@ -53,7 +53,10 @@ These links are in no particular order. I just tried to collect interesting link
 - [Donna Summers - I feel love reconstruction][https://www.youtube.com/watch?v=9X2dgsKfphA]
 - [Pink Floyd - On the run (step-sequencer, filtering](https://www.youtube.com/watch?v=G0wOOlwXLgA)
 - [Pink Floyd - On the run reconstruction](https://www.youtube.com/watch?v=H_HwIn2DPv0)
-
+- [Steve Reich - Clapping Music with Score](https://musescore.com/user/28073984/scores/5067795)
+- [Dan Trueman - Clapping Music Variations](https://manyarrowsmusic.com/clapping-machine-music-variations/)
+- [Gavin Bryars - Jesus Blood Never Failed Me Yet](https://www.youtube.com/watch?v=E1lnSi7QWY8)
+  
 ## Unconventional controllers 
 
 - [Arithmophone](https://chielzwinkels.net/arithmophone/)
