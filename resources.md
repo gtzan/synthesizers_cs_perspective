@@ -53,7 +53,8 @@ These links are in no particular order. I just tried to collect interesting link
 - [Donna Summers - I feel love reconstruction][https://www.youtube.com/watch?v=9X2dgsKfphA]
 - [Pink Floyd - On the run (step-sequencer, filtering](https://www.youtube.com/watch?v=G0wOOlwXLgA)
 - [Pink Floyd - On the run reconstruction](https://www.youtube.com/watch?v=H_HwIn2DPv0)
-- [Steve Reich - Clapping Music with Score](https://musescore.com/user/28073984/scores/5067795)
+- [Steve Reich - Clapping Music MIDI with Score](https://musescore.com/user/28073984/scores/5067795)
+- [Steve Reich - Clapping Music](https://www.youtube.com/watch?v=YPU5XrmORCQ)
 - [Dan Trueman - Clapping Music Variations](https://manyarrowsmusic.com/clapping-machine-music-variations/)
 - [Gavin Bryars - Jesus Blood Never Failed Me Yet](https://www.youtube.com/watch?v=E1lnSi7QWY8)
   
@@ -76,6 +77,8 @@ These links are in no particular order. I just tried to collect interesting link
   - [Apple Macintosh Promo Video for MIDI capabilities](https://www.youtube.com/watch?v=7sACo5QntGc)
   - [Herbie Hancock demonstrating the Fairlight CMI at Sesame Street](https://www.youtube.com/watch?v=daLceM3qZmI)
   - [Korg M1 retrospective overview and demo (Japanese with subtitles)](https://youtu.be/f6TYxRfeZos)
+  - [David Jaffe - Silicon Valley breakdown](https://www.youtube.com/watch?v=_p4DGE5t3x0)
+  - 
 
 ### Youtube channels  
   - [Bad Gear](https://www.youtube.com/@AudioPilz)
