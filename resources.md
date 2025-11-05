@@ -60,6 +60,7 @@ These links are in no particular order. I just tried to collect interesting link
 - [Gavin Bryars - Jesus Blood Never Failed Me Yet](https://www.youtube.com/watch?v=E1lnSi7QWY8)
 - [Steve Reich - Music for pieces of wood](https://www.youtube.com/watch?v=i4JQD0cy87I)
 - [Tristan Murail - Désintégrations (1982-83)](https://www.youtube.com/watch?v=4basuUUatf8&list=RD4basuUUatf8&start_radio=1&t=620s)
+- [Conlon Nancarrow - Study no. 21 [w/score]](https://www.youtube.com/watch?v=3rLEbVWxayQ)
   
 ## New Music Instruments/Controllers 
 
