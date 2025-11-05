@@ -33,7 +33,7 @@ These links are in no particular order. I just tried to collect interesting link
 - Real-time interactive sound synthesis - Perry Cook 
 - Designing Sound - Andy Farnell 
 - Digital Signal Processing Primer - Ken Steiglitz 
-- 
+- [Introduction to Computer Music - Nick Collins (free)])(https://composerprogrammer.com/introductiontocomputermusic.pdf)
 
  
 
@@ -66,6 +66,7 @@ These links are in no particular order. I just tried to collect interesting link
 
 - [Arithmophone](https://chielzwinkels.net/arithmophone/)
 - [Soundplane](https://www.youtube.com/watch?v=Twln5ycYlrg)
+- [Music Gloves](https://www.youtube.com/watch?v=6btFObRRD9k)
 - 
 
 ## Videos 
