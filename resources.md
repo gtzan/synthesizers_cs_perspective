@@ -49,8 +49,8 @@ These links are in no particular order. I just tried to collect interesting link
 - [A short documentary about the Roland D50](https://www.youtube.com/watch?v=7PIKmHfjgFc) 
 
 ## Music 
-- [Donna Summers - I feel love (step-sequencer](https://www.youtube.com/watch?v=gHF-w8yGrHI&list=RDgHF-w8yGrHI&start_radio=1)
-- [Donna Summers - I feel love reconstruction][https://www.youtube.com/watch?v=9X2dgsKfphA]
+- [Donna Summers - I feel love (step-sequencer)](https://www.youtube.com/watch?v=gHF-w8yGrHI&list=RDgHF-w8yGrHI&start_radio=1)
+- [Donna Summers - I feel love reconstruction](https://www.youtube.com/watch?v=9X2dgsKfphA)
 - [Pink Floyd - On the run (step-sequencer, filtering](https://www.youtube.com/watch?v=G0wOOlwXLgA)
 - [Pink Floyd - On the run reconstruction](https://www.youtube.com/watch?v=H_HwIn2DPv0)
 - [Steve Reich - Clapping Music MIDI with Score](https://musescore.com/user/28073984/scores/5067795)
@@ -58,11 +58,14 @@ These links are in no particular order. I just tried to collect interesting link
 - [Dan Trueman - Clapping Music Variations](https://manyarrowsmusic.com/clapping-machine-music-variations/)
 - [Gavin Bryars - Jesus Blood Never Failed Me Yet](https://www.youtube.com/watch?v=E1lnSi7QWY8)
   
-## Unconventional controllers 
+## New Music Instruments/Controllers 
 
 - [Arithmophone](https://chielzwinkels.net/arithmophone/)
+- [Soundplane](https://www.youtube.com/watch?v=Twln5ycYlrg)
+- 
 
 ## Videos 
+
 
 ### Historic 
   - [History of synthesizers - Google Arts and Culture](https://artsandculture.google.com/story/instrument-history-the-synthesizer-philharmonie-de-paris/NAWhuXju46u1pg?hl=en)
