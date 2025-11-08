@@ -67,7 +67,7 @@ These links are in no particular order. I just tried to collect interesting link
 - [Arithmophone](https://chielzwinkels.net/arithmophone/)
 - [Soundplane](https://www.youtube.com/watch?v=Twln5ycYlrg)
 - [Music Gloves](https://www.youtube.com/watch?v=6btFObRRD9k)
-- 
+- [Robotic drummer arm](https://www.youtube.com/watch?v=GKW7cg45EwY)
 
 ## Videos 
 
