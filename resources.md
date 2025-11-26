@@ -63,6 +63,11 @@ These links are in no particular order. I just tried to collect interesting link
 - [Conlon Nancarrow - Study no. 21 [w/score]](https://www.youtube.com/watch?v=3rLEbVWxayQ)
 - [Pierre Schaeffer -- Études de bruits (1948)](https://www.youtube.com/watch?v=CTf0yE15zzI)
 - [John Cage: Williams Mix (1952/1953)](https://youtu.be/9ql4Ophbt7k?si=AW-_UqHPr0FNpSyf)
+- [Messiaen on Birds I](https://www.youtube.com/watch?v=XRRhsX4j1Oc)
+- [Messiaen on Birds II](https://www.youtube.com/watch?v=xkKrD9knBvU)
+- [Les chants d'oiseaux du CATALOGUE D'OISEAUX d'Olivier Messiaen](https://www.youtube.com/watch?v=biJCU8jK3x4)
+  
+  
 
 
   
