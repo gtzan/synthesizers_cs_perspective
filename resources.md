@@ -98,6 +98,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Johnny Morgan's synth dreams](https://www.youtube.com/@johnnymorgansynthdreams)
   - [Syntaur](https://www.youtube.com/@Syntaur)
   - [Synthquest](https://www.youtube.com/@madFame)
+  - [synth_def](https://www.youtube.com/@synth_def)
 
 ## Talks 
  - [George Lewis - Why do we want our computers to improvise](https://www.youtube.com/watch?v=wDP8FsjyCaA)
