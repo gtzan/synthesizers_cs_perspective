@@ -95,7 +95,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [Herbie Hancock demonstrating the Fairlight CMI at Sesame Street](https://www.youtube.com/watch?v=daLceM3qZmI)
   - [Korg M1 retrospective overview and demo (Japanese with subtitles)](https://youtu.be/f6TYxRfeZos)
   - [David Jaffe - Silicon Valley breakdown](https://www.youtube.com/watch?v=_p4DGE5t3x0)
-  - 
+  - [Hugh Le Caine Instruments](https://www.youtube.com/watch?v=OiZP-aQ70ZI)
 
 ### Youtube channels  
   - [Bad Gear](https://www.youtube.com/@AudioPilz)
