@@ -118,6 +118,7 @@ These links are in no particular order. I just tried to collect interesting link
  - [George Lewis - Why do we want our computers to improvise](https://www.youtube.com/watch?v=wDP8FsjyCaA)
  - [Eve Egoyan - Explorations in Multi-Media Piano](https://www.youtube.com/watch?v=TEt0zaH8tfY)
  - [Imogen Heap - Mi.Mu Gloves](https://www.youtube.com/watch?v=ci-yB6EgVW4)
+ - [Interview with Barry Truax](https://www.youtube.com/watch?v=JFuRgnqyajA)
 
 ## People 
 
