@@ -69,6 +69,7 @@ These links are in no particular order. I just tried to collect interesting link
 - [Barry Truax - Riverrun](https://www.youtube.com/watch?v=u81IGEFt7dM)
 - [Microtonal choir - Nicola Vincentino](https://www.youtube.com/watch?v=u81IGEFt7dM)
 - [Microtonal - archicembalo](https://www.youtube.com/watch?v=JpVaAqh3nLA)
+- [Soundscapes - Murray Schafer](https://www.youtube.com/playlist?list=PLsqJWgdhDPkwphmV_vSboWfkrY0cMc3KX)
   
   
 
