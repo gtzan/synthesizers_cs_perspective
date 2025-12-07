@@ -115,6 +115,7 @@ These links are in no particular order. I just tried to collect interesting link
   - [synth_def](https://www.youtube.com/@synth_def)
   - [WaveshaperMedia](https://www.youtube.com/@WaveshaperMedia)
   - [Eli Fieldsteel - SuperCollider Tutorials](https://www.youtube.com/@elifieldsteel/videos)
+  - [Espen Kraft](https://www.youtube.com/@EspenKraft)
 
 ## Talks 
  - [George Lewis - Why do we want our computers to improvise](https://www.youtube.com/watch?v=wDP8FsjyCaA)
