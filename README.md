@@ -57,6 +57,12 @@ There are several devices that can be used by the students for their projects an
 [Devices](devices.md) 
 
 
+USEFUL CODE REPOSITORIES
+
+https://codeberg.org/BillyDM/awesome-audio-dsp
+
+
+
 
 
 
