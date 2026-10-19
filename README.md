@@ -59,7 +59,8 @@ There are several devices that can be used by the students for their projects an
 
 USEFUL CODE REPOSITORIES
 
-https://codeberg.org/BillyDM/awesome-audio-dsp
+* https://codeberg.org/BillyDM/awesome-audio-dsp
+* https://github.com/iamycy/golf/
 
 
 
