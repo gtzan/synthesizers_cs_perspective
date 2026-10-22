@@ -64,6 +64,8 @@ USEFUL CODE REPOSITORIES
 * https://github.com/p-lambda/jukemir
 * https://github.com/lfnoise/sapf
 * https://github.com/usdivad/a-sine-by-any-other-language
+* https://github.com/calgoheen/cSuite
+* 
 
 
 
